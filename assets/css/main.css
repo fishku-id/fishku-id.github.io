@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Arvo:700|Open+Sans");
+@import url("https://fonts.googleapis.com/css?family=Poppins");
 html {
     overflow-x: hidden;
 }
@@ -7,12 +7,12 @@ body {
     background: #fff;
     font-size: 14px;
     font-weight: 400;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Poppins";
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     -webkit-font-smoothing: subpixel-antialiased;
-    color: #abacae;
+    color: #043770;
     line-height: 25px;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
@@ -24,9 +24,9 @@ h2,
 h3,
 h4 {
     font-size: 38px;
-    color: #222222;
+    color: #043770;
     font-weight: 700;
-    font-family: "Arvo", serif;
+    font-family: "Poppins";
 }
 
 a {
@@ -516,6 +516,7 @@ hr {
 
 #service {
     position: relative;
+    background-color: #00aced;
 }
 
 .about-area .about-wrapper {
@@ -566,7 +567,7 @@ hr {
 }
 
 .top-nav-collapse .navbar-brand img {
-    width: 50px;
+    width: 120px;
 }
 
 .top-nav-collapse .navbar-nav .nav-link {
@@ -594,7 +595,7 @@ hr {
 }
 
 .navbar-brand img {
-    width: 50px;
+    width: 120px;
 }
 
 .top-nav-collapse .navbar-nav li.active a.nav-link {
@@ -786,8 +787,8 @@ hr {
 ========================================================================== */
 
 #hero-area {
-    background-image: url(../img/hero-area.svg);
-    background-position: center center;
+    background-image: url(../img/mobile-fishku.svg);
+    border-image-width: auto;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 650px;
@@ -797,9 +798,9 @@ hr {
 }
 
 #hero-area .contents .head-title {
-    color: #222222;
+    color: #043770;
     font-size: 42px;
-    font-weight: 700;
+    font-weight: bold;
     line-height: 60px;
     margin-bottom: 10px;
 }
@@ -1465,4 +1466,41 @@ textarea {
 
 .social-icon .google:hover {
     background: #ce332a;
+}
+
+
+/* ------------------------ */
+
+@media (max-width: 767px) {
+    .carousel-inner .carousel-item>div {
+        display: none;
+    }
+    .carousel-inner .carousel-item>div:first-child {
+        display: block;
+    }
+}
+
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+    display: flex;
+}
+
+
+/* medium and up screens */
+
+@media (min-width: 768px) {
+    .carousel-inner .carousel-item-end.active,
+    .carousel-inner .carousel-item-next {
+        transform: translateX(25%);
+    }
+    .carousel-inner .carousel-item-start.active,
+    .carousel-inner .carousel-item-prev {
+        transform: translateX(-25%);
+    }
+}
+
+.carousel-inner .carousel-item-end,
+.carousel-inner .carousel-item-start {
+    transform: translateX(0);
 }
