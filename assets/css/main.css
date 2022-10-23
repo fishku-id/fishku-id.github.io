@@ -132,7 +132,7 @@ a:not([href]):not([tabindex]) {
 }
 
 .btn-common {
-    background-image: linear-gradient(to right, #6168B0 , #52CAF5);
+    background-image: linear-gradient(to right, #6168B0, #52CAF5);
     position: relative;
     z-index: 1;
     text-transform: uppercase;
@@ -326,7 +326,6 @@ a.back-to-top:focus {
     }
 }
 
-
 .section-padding {
     padding: 60px 0;
 }
@@ -457,7 +456,7 @@ hr {
 
 /* Services Item */
 
-#services{
+#services {
     background-image: url(../img/background.jpg);
     background-repeat: no-repeat;
     background-position: top center;
@@ -578,7 +577,7 @@ hr {
 }
 
 .top-nav-collapse .navbar-brand img {
-    width: 120px;
+    width: 150px;
 }
 
 .top-nav-collapse .navbar-nav .nav-link {
@@ -606,7 +605,7 @@ hr {
 }
 
 .navbar-brand img {
-    width: 120px;
+    width: 150px;
 }
 
 .top-nav-collapse .navbar-nav li.active a.nav-link {
@@ -802,7 +801,6 @@ hr {
     border-image-width: auto;
     background-repeat: no-repeat;
     background-size: cover;
-    
     position: relative;
     overflow: hidden;
     padding: 180px 0 80px;
