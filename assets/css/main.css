@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Arvo:700|Open+Sans");
+@import url("https://fonts.googleapis.com/css?family=Poppins");
 html {
     overflow-x: hidden;
 }
@@ -7,7 +7,7 @@ body {
     background: #fff;
     font-size: 14px;
     font-weight: 400;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Poppins";
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -24,9 +24,9 @@ h2,
 h3,
 h4 {
     font-size: 38px;
-    color: #222222;
+    color: #6168B0;
     font-weight: 700;
-    font-family: "Arvo", serif;
+    font-family: "Poppins";
 }
 
 a {
@@ -786,7 +786,7 @@ hr {
 ========================================================================== */
 
 #hero-area {
-    background-image: url(../img/hero-area.svg);
+    background-image: url(../img/mobile-fishku.svg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
