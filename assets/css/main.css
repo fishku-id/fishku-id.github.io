@@ -460,6 +460,12 @@ hr {
     background-image: url(../img/background.jpg);
     background-repeat: no-repeat;
     background-position: top center;
+    background-position-x: center;
+    background-position-y: top;
+}
+
+#services .container {
+    margin-top: 100px;
 }
 
 .services-item {
