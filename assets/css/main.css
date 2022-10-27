@@ -331,8 +331,9 @@ a.back-to-top:focus {
 }
 
 .section-padding-services {
-    min-height: 1000px;
+    min-height: 850px;
     padding: 250px 0 0;
+    margin-bottom: auto;
 }
 
 hr {
@@ -519,6 +520,23 @@ hr {
 
 #service {
     position: relative;
+    background-color: #00aced;
+}
+
+
+#news h2 {
+    color: #043770;
+    font-weight: bold;
+    text-align: center;
+}
+
+#news p {
+    color: #043770;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+#news .carousel-indicators {
     background-color: #00aced;
 }
 
