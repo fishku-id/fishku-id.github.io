@@ -131,7 +131,7 @@ a:not([href]):not([tabindex]) {
     color: #fff;
 }
 
-.btn-common {
+#hero-area .btn-common {
     background-image: linear-gradient(to right, #6168B0, #52CAF5);
     position: relative;
     z-index: 1;
