@@ -481,10 +481,10 @@ hr {
 }
 
 .services-item .icon {
-    border: 1px solid #f1f1f1;
+    /* border: 1px solid #f1f1f1;
     width: 70px;
     height: 70px;
-    border-radius: 50%;
+    border-radius: 50%; */
     margin: 0 auto;
     transition: all 0.3s ease-in-out 0s;
     -moz-transition: all 0.3s ease-in-out 0s;
@@ -506,7 +506,6 @@ hr {
     margin-top: 20px;
     font-weight: 500;
     font-size: 16px;
-
 }
 
 .services-item .services-content h3 a {
@@ -522,7 +521,6 @@ hr {
     position: relative;
     background-color: #00aced;
 }
-
 
 #news h2 {
     color: #043770;
@@ -817,14 +815,17 @@ hr {
     padding: 180px 0 0px;
 }
 
+#hero-area .hero-area-bg {
+    margin-bottom: 100px
+}
+
+;
 #hero-area .contents .head-title {
     color: #043770;
     font-size: 48px;
-    
     line-height: 64px;
     margin-bottom: 10px;
 }
-
 
 #hero-area .contents .header-button {
     margin-top: 20px;
@@ -843,6 +844,107 @@ hr {
 
 .sloder-img {
     background: #34363a;
+}
+
+
+/* Team Item slider */
+
+#team {
+    padding: 30px 0;
+}
+
+.sec-heading h6 {
+    font-family: 'Poppins'
+}
+
+.single-box {
+    /* border: 1px solid #ddd;
+    border-radius: 20px; */
+    overflow: hidden;
+    background-color: #fff
+}
+
+.info-area {
+    padding: 0 20px 45px;
+}
+
+.img-area {
+    overflow: hidden;
+    padding: 15px 0 15px;
+}
+
+.img-area img {
+    border-radius: 50%;
+    margin: 0 auto;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    max-width: 180px
+}
+
+.info-area i {
+    display: inline-block;
+    color: #ffb400;
+    margin: 0 4px;
+}
+
+.info-area h4 {
+    font-weight: 600
+}
+
+.info-area h5 {
+    color: #3b04db;
+    margin: 10px 0 0;
+    font-weight: 600
+}
+
+.info-area a {
+    display: inline-block;
+    margin: 25px 0 0;
+    background-color: darkorange;
+    color: #fff;
+    padding: 10px 35px;
+    border-radius: 4px;
+}
+
+.team-slider .owl-dots {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -20px;
+    text-align: center;
+    width: 100%;
+}
+
+.team-slider button.owl-dot {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    margin: 0 6px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #262626;
+}
+
+.team-slider .owl-dot.active {
+    background-color: coral;
+}
+
+.move-animation {
+    position: relative;
+    -webkit-animation: move-animation 2s ease-in-out infinite;
+    animation: move-animation 2s ease-in-out infinite;
+}
+
+@-webkit-keyframes move-animation {
+    0% {
+        top: 3px;
+    }
+    50% {
+        top: -3px;
+    }
+    100% {
+        top: 3px;
+    }
 }
 
 
@@ -928,8 +1030,7 @@ hr {
     color: #333;
 }
 
-.team-item .info-text h3 a:hover {
-}
+.team-item .info-text h3 a:hover {}
 
 .team-item .info-text p {
     margin: 0;
@@ -1079,7 +1180,6 @@ hr {
 
 .testimonial {
     position: relative;
-    background-color: #02366F;
 }
 
 .testimonial-item {
@@ -1089,15 +1189,17 @@ hr {
     padding: 30px 20px;
 }
 
-.testimonial-item .img-thumb {
+
+/* .testimonial-item .img-fluid {
     position: relative;
     margin: 15px 15px 15px 0;
-}
+} */
 
-.testimonial-item .img-thumb img {
-    border-radius: 50%;
-    display: inline-block;
-    width: inherit;
+.testimonial-item .img-fluid img {
+    border-radius: 30px;
+    margin: 15px 15px 15px 0;
+    position: relative;
+    width: 50%;
     padding: 7px;
 }
 
@@ -1117,7 +1219,6 @@ hr {
 .testimonial-item .info h2 {
     font-size: 16px;
     font-weight: 700;
-    text-transform: uppercase;
     line-height: 30px;
     margin: 0;
 }
