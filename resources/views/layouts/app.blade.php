@@ -16,6 +16,24 @@
     <!-- Styles -->
     <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet">
 
+    <!-- Icon -->
+    <link href="{{ asset('assets/fonts/line-icons.css') }} " rel="stylesheet">
+
+    <!-- Owl carousel -->
+    <link href="{{ asset('assets/css/owl.carousel.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/css/owl.theme.css') }}" rel="stylesheet">
+
+    <!-- Animate -->
+    <link href="{{ asset('assets/css/animate.css') }}" rel="stylesheet">
+
+    <!-- Main Style -->
+    <link href="{{ asset('assets/css/main.css') }}" rel="stylesheet">
+    
+    <!-- Responsive Style -->
+    <link href="{{ asset('assets/css/responsive.css') }}" rel="stylesheet">
+
+     
+
     @livewireStyles
 </head>
 <body>
