@@ -2,9 +2,10 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1, ">
 
-        <title>Fishku</title>
+        <link rel="icon" href="assets/img/logofishku.png">
+        <title>Fi$hku Indonesia | Berdayakan Perikanan Indonesia Mewujudkan Keadilan Sosial Bagi Seluruh Rakyat Indonesia</title>
 
         <!-- Fonts -->
         <link href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -19,6 +20,8 @@
                 font-family: 'Nunito', sans-serif;
             }
         </style>
+
+     
     </head>
     <body class="antialiased">
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
@@ -128,5 +131,8 @@
                 </div>
             </div>
         </div>
+
+       
     </body>
 </html>
+
