@@ -71,7 +71,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="privacy.html">
+                            <a class="nav-link" href="">
                                 Privacy Policy
                             </a>
                         </li>
