@@ -1,61 +1,7 @@
 @extends('layouts.app')
+@section('content')
         <!-- Header Area wrapper Starts -->
     <header id="header-wrap">
-        <!-- Navbar Start -->
-        <nav class="navbar navbar-expand-md bg-inverse fixed-top scrolling-navbar">
-            <div class="container">
-                <!-- Brand and toggle get grouped for better mobile display -->
-                <a href="index.html" class="navbar-brand"><img src="assets/img/logo-fishku.png" alt=""></a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-                    <i class="lni-menu"></i>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarCollapse">
-                    <ul class="navbar-nav mr-auto w-100 justify-content-end clearfix">
-                        <!-- HOME -->
-                        <li class="nav-item active">
-                            <a class="nav-link" href="#hero-area">
-                                Home
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#services">
-                                Features
-                            </a>
-                        </li>
-                        <!-- <li class="nav-item">
-                            <a class="nav-link" href="#news">
-                                News
-                            </a>
-                        </li> -->
-                        <li class="nav-item">
-                            <a class="nav-link" href="#testimonial">
-                                Documentation
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#team">
-                                Team
-                            </a>
-                        </li>
-
-
-                        <li class="nav-item">
-                            <a class="nav-link" href="#footer">
-                                Contact
-                            </a>
-                        </li>
-
-                        <li class="nav-item">
-                            <a class="nav-link" href="privacy.html">
-                                Privacy Policy
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-        <!-- Navbar End -->
-
         <!-- Hero Area Start -->
         <div id="hero-area" class="hero-area-bg">
             <div class="container">
@@ -333,3 +279,4 @@
             </div>
         </div>
     </section>
+@endsection

@@ -1,12 +1,12 @@
 <!doctype html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+<html lang="en">
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="icon" href="assets/img/logofishku.png">
-    <title>Fi$hku Indonesia | Berdayakan Perikanan Indonesia Mewujudkan Keadilan Sosial Bagi Seluruh Rakyat Indonesia</title>
+    <link rel="shortcut icon" href="assets/img/favicon.png">
+    <title>Fi$hku Indonesia | Berdayakan Perikanan Indonesia</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
