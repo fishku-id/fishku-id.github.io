@@ -53,7 +53,7 @@
                             </a>
                         </li> -->
                         <li class="nav-item">
-                            <a class="nav-link" href="#testimonial">
+                            <a class="nav-link" href="#news">
                                 Berita
                             </a>
                         </li>

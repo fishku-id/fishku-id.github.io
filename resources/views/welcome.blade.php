@@ -81,6 +81,20 @@
     </section>
     <!-- Services Section End -->
 
+    <!-- News Section -->
+    <section id="news">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+                    <div class="sec-heading text-center"></div>
+                        <h2>Berita</h2>
+                        <p>Apa yang sedang terjadi ya, Fishitors?</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- News Section End -->
+
     <!-- Team slider Start -->
     <section id="team">
         <div class="container">
@@ -184,4 +198,38 @@
             </div>
         </div>
     </section>
+
+<!-- Fishku akan hadir di app store dan play store -->
+<section id="download">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="sec-heading text-left"></div>
+                    <h3>
+                        FI$HKU AKAN HADIR DI APP STORE DAN PLAY STORE
+                    </h3>
+                    <p>Bersama Fishku mari kita
+                        #CiptakanPasarmu #DiFishkuPastiSegar #SemuaMakanIkan
+                    </p>
+            </div>
+        </div>
+    </div>
+
+</section>
+<!-- End of Fishku akan hadir di app store dan play store -->
+
+<!-- Kata Mereka -->
+<section id="testi">
+    <div class="container">
+        <div class="row">
+            <div class="lg-col 8">
+                <div class="sec-heading text-left">
+                    <h3>Kata mereka...</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+<!-- End of Kata Mereka -->
 @endsection
