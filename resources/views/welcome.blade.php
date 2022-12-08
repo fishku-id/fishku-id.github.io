@@ -6,15 +6,15 @@
         <div id="hero-area" class="hero-area-bg">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
+                    <div class="col-lg-7 col-md-12 col-sm-10 col-xs-12">
                         <div class="contents">
                             <h2 class="head-title">FI$HKU<br>Ciptakan Pasarmu!</h2>
                             <p>Digitalisasi penjualan ikan merupakan salah satu alternatif untuk memudahkan penjualan ikan. Beberapa fitur seperti<br>jual beli ikan dan deteksi kesegaran hadir di aplikasi ini.<br>Ayo unduh sekarang!</p>
                             <div class="header-button">
-                                <a href="https://play.google.com/store/apps/details?id=id.fishku.fisherseller" class="btn btn-common">Fishku Partner</i>
+                                <!-- <a href="https://play.google.com/store/apps/details?id=id.fishku.fisherseller" class="btn btn-common">Fishku Partner</i>
                                 </a>
                                 <a href="https://play.google.com/store/apps/details?id=id.fishku.consumer" class="btn btn-common">Fishku Consumer</i>
-                                </a>
+                                </a> -->
                             </div>
                         </div>
                     </div>
