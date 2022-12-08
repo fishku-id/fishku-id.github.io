@@ -3,10 +3,10 @@
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" href="assets/img/favicon.png">
-    <title>Fi$hku Indonesia | Berdayakan Perikanan Indonesia</title>
+    <title>Fi$hku.id -- Jual Beli Ikan Online dan Deteksi Kesegaran</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -39,12 +39,12 @@
                         <!-- HOME -->
                         <li class="nav-item active">
                             <a class="nav-link" href="#hero-area">
-                                Home
+                                Beranda
                             </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#services">
-                                Features
+                                Fitur
                             </a>
                         </li>
                         <!-- <li class="nav-item">
@@ -54,19 +54,19 @@
                         </li> -->
                         <li class="nav-item">
                             <a class="nav-link" href="#testimonial">
-                                Documentation
+                                Berita
                             </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#team">
-                                Team
+                                Tentang Kami
                             </a>
                         </li>
 
 
                         <li class="nav-item">
                             <a class="nav-link" href="#footer">
-                                Contact
+                                Kontak
                             </a>
                         </li>
 
