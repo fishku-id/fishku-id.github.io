@@ -84,12 +84,37 @@
     <!-- News Section -->
     <section id="news">
         <div class="container">
+            <div class="sec-heading text-center">
+                <h2>Berita</h2>
+                <!-- <div class="shape wow fadeInDown" data-wow-delay="0.3s"></div> -->
+                <p>Apa yang sedang terjadi ya, Fishitors?</p>
+            </div>
             <div class="row">
-                <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
-                    <div class="sec-heading text-center"></div>
-                        <h2>Berita</h2>
-                        <p>Apa yang sedang terjadi ya, Fishitors?</p>
+                <!-- Services item -->
+                <div class="col-md-4 col-lg-4 col-xs-12">
+                    <div class="services-item wow fadeInRight" data-wow-delay="0.3s">
+                        <div class="icon">
+                            <iconify-icon icon="ant-design:shopping-cart-outlined" style="color: white;" width="50" height="50"></iconify-icon>
+                        </div>
+                        <div class="services-content">
+                            <h3><a>Pembelian Ikan</a></h3>
+                            <p>Gambarnya Disini</p>
+                        </div>
+                    </div>
                 </div>
+                <!-- Services item -->
+                <div class="col-md-4 col-lg-4 col-xs-12">
+                    <div class="services-item wow fadeInRight" data-wow-delay="0.6s">
+                        <div class="icon">
+                            <iconify-icon icon="bx:store" style="color: white;" width="50" height="50"></iconify-icon>
+                        </div>
+                        <div class="services-content">
+                            <h3><a>Apa Itu Ekonomi Biru???</a></h3>
+                            <p>Menurut Bank Dunia .................</p>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>
