@@ -103,7 +103,7 @@
                     </div>
                 </div>
                 <!-- Services item -->
-                <div class="col-md-4 col-lg-4 col-xs-12">
+                <div class="col-md-4 col-lg-8 col-xs-12">
                     <div class="services-item wow fadeInRight" data-wow-delay="0.6s">
                         <div class="icon">
                             <iconify-icon icon="bx:store" style="color: white;" width="50" height="50"></iconify-icon>
