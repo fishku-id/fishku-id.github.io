@@ -47,6 +47,20 @@ h4 {
     font-family: "Poppins";
 }
 
+h5 {
+    font-size: 14px;
+    color: #043770;
+    font-weight: 500;
+    font-family: "Poppins";
+}
+
+h6 {
+    font-size: 17px;
+    color: #043770;
+    font-weight: 600;
+    font-family: "Poppins";
+}
+
 a {
     -webkit-transition: all 0.2s linear;
     -moz-transition: all 0.2s linear;

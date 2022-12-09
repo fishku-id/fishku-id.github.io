@@ -87,28 +87,28 @@
             <div class="sec-heading text-center">
                 <h2>Berita</h2>
                 <!-- <div class="shape wow fadeInDown" data-wow-delay="0.3s"></div> -->
-                <h4>Apa yang sedang terjadi ya, Fishitors?</h4>
+                <h5>Apa yang sedang terjadi ya, Fishitors?</h5>
             </div>
             <div class="row">
                 <!-- Services item -->
-                <div class="col-md-4 col-lg-4 col-xs-12">
+                <div class="col-md-4 col-lg-5 col-xs-12">
                     <div class="services-item wow fadeInRight" data-wow-delay="0.3s">
-                        <div class="icon">
+                        <!-- <div class="icon">
                             <iconify-icon icon="ant-design:shopping-cart-outlined" style="color: white;" width="50" height="50"></iconify-icon>
-                        </div>
+                        </div> -->
                         <div class="services-content">
                             <p>Gambarnya Disini</p>
                         </div>
                     </div>
                 </div>
                 <!-- Services item -->
-                <div class="col-md-4 col-lg-8 col-xs-12">
+                <div class="col-md-4 col-lg-7 col-xs-12">
                     <div class="services-item wow fadeInRight" data-wow-delay="0.6s">
-                        <div class="icon">
+                        <!-- <div class="icon">
                             <iconify-icon icon="bx:store" style="color: white;" width="50" height="50"></iconify-icon>
-                        </div>
+                        </div> -->
                         <div class="news-content">
-                            <h3>Apa Itu Ekonomi Biru???</h3>
+                            <h6>Apa Itu Ekonomi Biru???</h6>
                             <p>Menurut Bank Dunia, ekonomi biru adalah “pemanfaatan sumber daya laut yang berwawasan lingkungan untuk mendukung pertumbuhan ekonomi, kesejahteraan, dan mata pencaharian sekaligus pelestarian ekosistem laut”.</p>
                             <p>Sumber: BKPM</p>
                         </div>
