@@ -110,7 +110,8 @@
                         </div>
                         <div class="services-content">
                             <h3><a>Apa Itu Ekonomi Biru???</a></h3>
-                            <p>Menurut Bank Dunia .................</p>
+                            <p>Menurut Bank Dunia, ekonomi biru adalah “pemanfaatan sumber daya laut yang berwawasan lingkungan untuk mendukung pertumbuhan ekonomi, kesejahteraan, dan mata pencaharian sekaligus pelestarian ekosistem laut”.</p>
+                            <p>Sumber: BKPM</p>
                         </div>
                     </div>
                 </div>
@@ -126,8 +127,7 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
                     <div class="sec-heading text-center">
-                        <h2>Fishmates</h2>
-                        <p>Selalu siap untuk membantu kamu, Fishitors!</p>
+                        <h2>Fishku Team</h2>
                     </div>
                 </div>
             </div>
