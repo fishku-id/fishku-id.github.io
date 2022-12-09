@@ -19,11 +19,29 @@ body {
     overflow-x: hidden;
 }
 
-h1,
-h2,
-h3,
-h4 {
+h1{
     font-size: 38px;
+    color: #043770;
+    font-weight: 700;
+    font-family: "Poppins";
+}
+
+h2{
+    font-size: 38px;
+    color: #043770;
+    font-weight: 700;
+    font-family: "Poppins";
+}
+
+h3{
+    font-size: 25px;
+    color: #043770;
+    font-weight: 700;
+    font-family: "Poppins";
+}
+
+h4 {
+    font-size: 17px;
     color: #043770;
     font-weight: 700;
     font-family: "Poppins";
@@ -518,6 +536,10 @@ hr {
     color: white;
 }
 
+.news-item .services-news p {
+    color: #043770;
+}
+
 #service {
     position: relative;
     background-color: #00aced;
@@ -532,7 +554,7 @@ hr {
 
 #news p {
     color: #043770;
-    text-align: center;
+    text-align: justify;
     padding-bottom: 30px;
 }
 

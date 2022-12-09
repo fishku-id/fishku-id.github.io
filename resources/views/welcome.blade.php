@@ -87,7 +87,7 @@
             <div class="sec-heading text-center">
                 <h2>Berita</h2>
                 <!-- <div class="shape wow fadeInDown" data-wow-delay="0.3s"></div> -->
-                <p>Apa yang sedang terjadi ya, Fishitors?</p>
+                <h4>Apa yang sedang terjadi ya, Fishitors?</h4>
             </div>
             <div class="row">
                 <!-- Services item -->
@@ -108,8 +108,8 @@
                         <div class="icon">
                             <iconify-icon icon="bx:store" style="color: white;" width="50" height="50"></iconify-icon>
                         </div>
-                        <div class="services-content">
-                            <h3><a>Apa Itu Ekonomi Biru???</a></h3>
+                        <div class="news-content">
+                            <h3>Apa Itu Ekonomi Biru???</h3>
                             <p>Menurut Bank Dunia, ekonomi biru adalah “pemanfaatan sumber daya laut yang berwawasan lingkungan untuk mendukung pertumbuhan ekonomi, kesejahteraan, dan mata pencaharian sekaligus pelestarian ekosistem laut”.</p>
                             <p>Sumber: BKPM</p>
                         </div>
