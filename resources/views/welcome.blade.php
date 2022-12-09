@@ -97,7 +97,6 @@
                             <iconify-icon icon="ant-design:shopping-cart-outlined" style="color: white;" width="50" height="50"></iconify-icon>
                         </div>
                         <div class="services-content">
-                            <h3><a>Pembelian Ikan</a></h3>
                             <p>Gambarnya Disini</p>
                         </div>
                     </div>
