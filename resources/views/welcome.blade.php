@@ -223,25 +223,46 @@
         </div>
     </section>
 
-<!-- Fishku akan hadir di app store dan play store -->
-<section id="download">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8">
-                <div class="sec-heading text-left"></div>
-                    <h3>
-                        FI$HKU AKAN HADIR DI APP STORE DAN PLAY STORE
-                    </h3>
-                    <p>Bersama Fishku mari kita
-                        #CiptakanPasarmu #DiFishkuPastiSegar #SemuaMakanIkan
-                    </p>
+     <!-- Download Section -->
+     <section id="news">
+        <div class="container">
+            <div class="sec-heading text-center">
+                <h2> FI$HKU AKAN HADIR DI APP STORE DAN PLAY STORE</h2>
+                <!-- <div class="shape wow fadeInDown" data-wow-delay="0.3s"></div> -->
+                <h5>Bersama Fishku mari kita
+                        #CiptakanPasarmu #DiFishkuPastiSegar #SemuaMakanIkan</h5>
+            </div>
+            <div class="row">
+                <!-- Services item -->
+                <div class="col-md-4 col-lg-5 col-xs-12">
+                    <div class="services-item wow fadeInRight" data-wow-delay="0.3s">
+                        <!-- <div class="icon">
+                            <iconify-icon icon="ant-design:shopping-cart-outlined" style="color: white;" width="50" height="50"></iconify-icon>
+                        </div> -->
+                        <div class="services-content">
+                            <p>Gambarnya Disini</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Services item -->
+                <div class="col-md-4 col-lg-7 col-xs-12">
+                    <div class="services-item wow fadeInRight" data-wow-delay="0.6s">
+                        <!-- <div class="icon">
+                            <iconify-icon icon="bx:store" style="color: white;" width="50" height="50"></iconify-icon>
+                        </div> -->
+                        <div class="news-content">
+                            <h6>Apa Itu Ekonomi Biru???</h6>
+                            <p>Menurut Bank Dunia, ekonomi biru adalah “pemanfaatan sumber daya laut yang berwawasan lingkungan untuk mendukung pertumbuhan ekonomi, kesejahteraan, dan mata pencaharian sekaligus pelestarian ekosistem laut”.</p>
+                            <p>Sumber: BKPM</p>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
-    </div>
-
-</section>
-<!-- End of Fishku akan hadir di app store dan play store -->
-
+    </section>
+    <!-- Download Section End -->
+    
 <!-- Kata Mereka -->
 <section id="testi">
     <div class="container">
