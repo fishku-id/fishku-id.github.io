@@ -85,7 +85,7 @@
     <section id="news">
         <div class="container">
             <div class="sec-heading text-center">
-                <h2>Berita</h2>
+                <h2>Fun Fact</h2>
                 <!-- <div class="shape wow fadeInDown" data-wow-delay="0.3s"></div> -->
                 <h5>Apa yang sedang terjadi ya, Fishitors?</h5>
             </div>
