@@ -173,6 +173,9 @@
     <script src="assets/js/form-validator.min.js"></script>
     <script src="assets/js/contact-form-script.min.js"></script>
     <script src="https://code.iconify.design/iconify-icon/1.0.1/iconify-icon.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="jquery-3.6.1.min.js"></script>
+   
     <script>
         $('.team-slider').owlCarousel({
             loop: true,
