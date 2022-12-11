@@ -89,6 +89,34 @@
                 <!-- <div class="shape wow fadeInDown" data-wow-delay="0.3s"></div> -->
                 <h5>Fishitors tau gak sihhh?</h5>
             </div>
+            <!-- carousel -->
+            <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="assets/img/funfact/croppednatunas.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/funfact/tunaocean.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+<!-- carousel -->
             <div class="row">
                 <!-- Services item -->
                 <div class="col-md-4 col-lg-5 col-xs-12">
@@ -108,9 +136,9 @@
                             <iconify-icon icon="bx:store" style="color: white;" width="50" height="50"></iconify-icon>
                         </div> -->
                         <div class="news-content">
-                            <h6>Apa Itu Ekonomi Biru???</h6>
+                            <!-- <h6>Apa Itu Ekonomi Biru???</h6> -->
                             <p>Menurut Bank Dunia, ekonomi biru adalah “pemanfaatan sumber daya laut yang berwawasan lingkungan untuk mendukung pertumbuhan ekonomi, kesejahteraan, dan mata pencaharian sekaligus pelestarian ekosistem laut”.</p>
-                            <p>Sumber: BKPM</p>
+                            <!-- <p>Sumber: BKPM</p> -->
                         </div>
                     </div>
                 </div>
