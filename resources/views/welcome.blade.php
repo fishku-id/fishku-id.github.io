@@ -90,20 +90,17 @@
 			<div class="carousel-inner">
 				<div class="carousel-item active"> <img src="assets/img/funfact/croppednatunas.jpg" class="d-block w-100 h-funfact" alt="...">
 					<div class="carousel-caption d-none d-md-block">
-						<h5>First slide label</h5>
-						<p>Some representative placeholder content for the first slide.</p>
+						<h-funfact>Some representative placeholder content for the first slide.</h-funfact>
 					</div>
 				</div>
 				<div class="carousel-item"> <img src="assets/img/funfact/tunaocean.jpg" class="d-block w-100 h-funfact" alt="...">
 					<div class="carousel-caption d-none d-md-block">
-						<h5>Second slide label</h5>
-						<p>Some representative placeholder content for the second slide.</p>
+						<h-funfact>Some representative placeholder content for the second slide.</h-funfact>
 					</div>
 				</div>
 				<div class="carousel-item"> <img src="assets/img/funfact/sea.jpg" class="d-block w-100 h-funfact" alt="...">
 					<div class="carousel-caption d-none d-md-block">
-						<h5>Third slide label</h5>
-						<p>Some representative placeholder content for the third slide.</p>
+						<h-funfact>Some representative placeholder content for the third slide.</h-funfact>
 					</div>
 				</div>
 			</div>

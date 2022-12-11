@@ -61,6 +61,13 @@ h6 {
     font-family: "Poppins";
 }
 
+h-funfact {
+    font-size: 40px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Poppins";
+}
+
 a {
     -webkit-transition: all 0.2s linear;
     -moz-transition: all 0.2s linear;
