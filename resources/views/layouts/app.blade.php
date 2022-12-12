@@ -89,39 +89,33 @@
             <div class="container">
                 <div class="row">
                     <!-- fishku adalah -->
-                    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 col-mb-12">
-                        <div class="widget">
-                            <h3 class="footer-logo"><img src="assets/img/favicon.png" width="70px" alt=""></h3>
-                        </div>
+                    <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12" style="margin-right: -90px">
+                        <img src="assets/img/favicon.png" width="80px" alt="">
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 col-mb-12">
+
+                    <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12">
                         <div class="widget">
                             <div class="textwidget">
-                                <p>Fishku merupakan startup e-commerce di bidang perikanan yang bertujuan untuk mempermudah kegiatan jual beli ikan dan mendeteksi kesegaran ikan menggunakan machine learning.</p>
+                                <h4 align="justify">Fishku merupakan startup e-commerce di bidang perikanan yang bertujuan untuk mempermudah kegiatan jual beli ikan dan mendeteksi kesegaran ikan menggunakan machine learning.</h4>
+                                <h3 class="footer-titel" style="margin: 80px -90px;">Didukung Oleh</h3>
+                            <ul class="support" style="margin-top: -80px; margin-left: -90px">
+                                <li>
+                                <img src="./assets/img/footer/google.png" height="30px">
+                                <img src="./assets/img/footer/bangkit.png" height="30px">
+                                <img src="./assets/img/footer/dikti.png" height="30px">
+                                </li>
+                            </ul>
                             </div>
                     <!-- fisku adalah -->
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                        <h3 class="footer-titel">Didukung Oleh</h3>
-                        <ul class="support">
-                            <li>
-                            <img src="./assets/img/footer/google.png" height="30px">
-                            <img src="./assets/img/footer/bangkit.png" height="30px">
-                            <img src="./assets/img/footer/dikti.png" height="30px">
-                            </li>
-                        </ul>
-                    </div>
 
-                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                         <h3 class="footer-titel">Kontak</h3>
                         <ul class="address">
                             <li>
                                 <a href="https://goo.gl/maps/e4qz8f8EDFi3Shmf6"><i class="lni-map-marker"></i> Universitas Gajah Mada - Daerah Istimewa Yogyakarta </a>
                             </li>
-                            <!-- <li>
-                                <a href="#"><i class="lni-phone-handset"></i> P: -</a>
-                            </li> -->
                             <li>
                                 <a href=mailto:admin@fishku.id?subject="HTML link"><i class="lni-envelope"></i>admin@fishku.id</a>
                             </li>
@@ -134,8 +128,13 @@
                         </ul>
                     </div>
 
-
                 </div>
+
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                            
+                        </div>
+                    </div>
             </div>
         </div>
         <div id="copyright">
