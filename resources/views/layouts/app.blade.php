@@ -111,7 +111,7 @@
                     </div>
 
                     <div class="col-lg-5 col-md-4 col-sm-12 col-xs-12">
-                        <h3 class="footer-titel">Kontak</h3>
+                        <h2 class="footer-titel">Kontak</h2>
                         <ul class="address">
                             <li>
                                 <a href="https://goo.gl/maps/e4qz8f8EDFi3Shmf6"><i class="lni-map-marker"></i> Universitas Gajah Mada - Daerah Istimewa Yogyakarta </a>
