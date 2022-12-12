@@ -123,7 +123,7 @@
                                 <a href="https://www.instagram.com/fishku.id/"><i class="lni-instagram"></i>fishku.id</a>
                             </li>
                             <li>
-                                <a href="https://www.linkedin.com/company/fishku/"><iconify-icon icon="mdi:linkedin"></iconify-icon>Fishku Indonesia</a>
+                                <a href="https://www.linkedin.com/company/fishku/"><i class="lni lni-linkedin"></i>Fishku Indonesia</a>
                             </li>
                         </ul>
                     </div>
