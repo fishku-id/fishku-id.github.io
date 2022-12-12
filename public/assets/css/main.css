@@ -75,6 +75,13 @@ h-testimonial {
     font-family: "Poppins";
 }
 
+h-testimonial-p {
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: "Poppins";
+}
+
 a {
     -webkit-transition: all 0.2s linear;
     -moz-transition: all 0.2s linear;
@@ -1591,7 +1598,7 @@ textarea {
 }
 
 #copyright .copyright-content {
-    border-top: 1px solid #d5d4e9;
+    border-top: 1px solid #02366F;
     padding: 15px 0;
     margin: 45px 0 0px;
 }
@@ -1601,6 +1608,7 @@ textarea {
     color: #333;
     text-align: center;
     margin: 0;
+    background-color: ;
 }
 
 #copyright p a {
