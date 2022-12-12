@@ -98,7 +98,7 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                        <h3 class="footer-titel">Supported by</h3>
+                        <h3 class="footer-titel">Didukung Oleh</h3>
                         <ul class="support">
                             <li><img src="./assets/img/footer/bangkit.jpg" width="70px">
                             </li>
@@ -110,7 +110,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                        <h3 class="footer-titel">Contact</h3>
+                        <h3 class="footer-titel">Kontak</h3>
                         <ul class="address">
                             <li>
                                 <a href="https://goo.gl/maps/e4qz8f8EDFi3Shmf6"><i class="lni-map-marker"></i> Universitas Gajah Mada - Daerah Istimewa Yogyakarta </a>
