@@ -1605,14 +1605,14 @@ textarea {
 
 #copyright p {
     line-height: 42px;
-    color: #333;
+    color: #ffffff;
     text-align: center;
     margin: 0;
-    background-color: ;
+    background-color: #02366F;
 }
 
 #copyright p a {
-    color: #02366F;
+    color: #ffffff;
 }
 
 .social-icon a {

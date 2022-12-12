@@ -90,7 +90,7 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 col-mb-12">
                         <div class="widget">
-                            <h3 class="footer-logo"><img src="assets/img/logofishku.png" width="70px" alt=""></h3>
+                            <h3 class="footer-logo"><img src="assets/img/favicon.png" width="70px" alt=""></h3>
                             <div class="textwidget">
                                 <p>Fishku merupakan startup e-commerce di bidang perikanan yang bertujuan untuk mempermudah kegiatan jual beli ikan dan mendeteksi kesegaran ikan menggunakan machine learning.</p>
                             </div>
