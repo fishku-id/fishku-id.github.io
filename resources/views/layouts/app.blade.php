@@ -96,9 +96,9 @@
                     <div class="col-lg-5 col-md-6 col-sm-12 col-xs-12">
                         <div class="widget">
                             <div class="textwidget">
-                                <h4 align="justify">Fishku merupakan startup e-commerce di bidang perikanan yang bertujuan untuk mempermudah kegiatan jual beli ikan dan mendeteksi kesegaran ikan menggunakan machine learning.</h4>
-                                <h3 class="footer-titel" style="margin: 80px -90px;">Didukung Oleh</h3>
-                            <ul class="support" style="margin-top: -80px; margin-left: -90px">
+                                <h7>Fishku merupakan startup e-commerce di bidang perikanan yang bertujuan untuk mempermudah kegiatan jual beli ikan dan mendeteksi kesegaran ikan menggunakan machine learning.</h7>
+                                <h3 class="footer-titel" style="margin: 40px -90px;">Didukung Oleh</h3>
+                            <ul class="support" style="margin-top: -43px; margin-left: -90px">
                                 <li>
                                 <img src="./assets/img/footer/google.png" height="30px">
                                 <img src="./assets/img/footer/bangkit.png" height="30px">

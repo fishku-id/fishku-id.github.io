@@ -82,6 +82,14 @@ h-testimonial-p {
     font-family: "Poppins";
 }
 
+h7 {
+    font-size: 18px;
+    color: #000000;
+    font-weight: 500;
+    font-family: "Poppins";
+    text-align: justify;
+}
+
 a {
     -webkit-transition: all 0.2s linear;
     -moz-transition: all 0.2s linear;
