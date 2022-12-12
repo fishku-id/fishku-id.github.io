@@ -52,14 +52,14 @@
                                 News
                             </a>
                         </li> -->
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                             <a class="nav-link" href="#news">
                                 Berita
                             </a>
-                        </li>
+                        </li> -->
                         <li class="nav-item">
                             <a class="nav-link" href="#team">
-                                Tentang Kami
+                                Team
                             </a>
                         </li>
 
@@ -110,7 +110,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                    <div class="col-lg-5 col-md-4 col-sm-12 col-xs-12">
                         <h3 class="footer-titel">Kontak</h3>
                         <ul class="address">
                             <li>
@@ -123,7 +123,7 @@
                                 <a href="https://www.instagram.com/fishku.id/"><i class="lni-instagram"></i>fishku.id</a>
                             </li>
                             <li>
-                                <a href="https://www.linkedin.com/company/fishku/"><i class="lni-linkedin"></i>Fishku Indonesia</a>
+                                <a href="https://www.linkedin.com/company/fishku/"><iconify-icon icon="mdi:linkedin"></iconify-icon>Fishku Indonesia</a>
                             </li>
                         </ul>
                     </div>
