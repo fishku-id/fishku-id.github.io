@@ -100,11 +100,10 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <h3 class="footer-titel">Didukung Oleh</h3>
                         <ul class="support">
-                            <li><img src="./assets/img/footer/bangkit.jpg" width="70px">
-                            </li>
-                            <li><img src="./assets/img/footer/google.png" width="90px">
-                            </li>
-                            <li><img src="./assets/img/footer/dikti.png" width="70px">
+                            <li>
+                            <img src="./assets/img/footer/google.png" height="30px">
+                            <img src="./assets/img/footer/bangkit.png" height="30px">
+                            <img src="./assets/img/footer/dikti.png" height="30px">
                             </li>
                         </ul>
                     </div>
