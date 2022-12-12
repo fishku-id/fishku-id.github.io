@@ -37,6 +37,7 @@
 			<div class="col-md-4 col-lg-4 col-xs-12">
 				<div class="services-item wow fadeInRight" data-wow-delay="0.3s">
 					<div class="icon">
+						<img src="assets/img/feature/consumer.png" width="50">
 						<iconify-icon icon="ant-design:shopping-cart-outlined" style="color: white;" width="50" height="50"></iconify-icon>
 					</div>
 					<div class="services-content">
@@ -275,7 +276,9 @@
 <!-- Download Section End -->
 <!-- Testimonial Section Start -->
 <section id="testimonial" class="testimonial section-padding">
+	<div style="margin: 30px 60px">
 <h-testimonial>   Kata Mereka...</h-testimonial>
+</div>
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
