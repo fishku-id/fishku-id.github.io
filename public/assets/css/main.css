@@ -68,6 +68,13 @@ h-funfact {
     font-family: "Poppins";
 }
 
+h-testimonial {
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: "Poppins";
+}
+
 a {
     -webkit-transition: all 0.2s linear;
     -moz-transition: all 0.2s linear;
@@ -366,7 +373,7 @@ a.back-to-top:focus {
 }
 
 .section-padding {
-    padding: 60px 0;
+    padding: 25px 0;
 }
 
 .section-padding-services {
@@ -1229,7 +1236,7 @@ hr {
 }
 
 .testimonial-item {
-    background: #fff;
+    background: #02366F;
     border-radius: 4px;
     text-align: center;
     padding: 30px 20px;
@@ -1255,7 +1262,7 @@ hr {
 
 .testimonial-item .content .description {
     width: 100%;
-    color: #333;
+    color: #ffffff;
 }
 
 .testimonial-item .content .star-icon i {
@@ -1270,7 +1277,7 @@ hr {
 }
 
 .testimonial-item .info h2 a {
-    color: #333;
+    color: #ffffff;
 }
 
 .testimonial-item .info h3 {
@@ -1283,7 +1290,7 @@ hr {
 }
 
 .testimonial-item .info h3 a {
-    color: #333;
+    color: #ffffff;
 }
 
 .testimonial-item .info .indicator {
