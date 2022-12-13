@@ -46,7 +46,7 @@ a a:focus {
 
 p {
     font-weight: 400;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Poppins";
     margin: 0px;
     font-size: 14px;
 }
@@ -79,7 +79,7 @@ a:not([href]):not([tabindex]) {
 
 .section-title {
     font-size: 30px;
-    color: #222222;
+    color: white;
     display: inline-block;
     font-weight: 700;
     position: relative;
@@ -132,7 +132,7 @@ a:not([href]):not([tabindex]) {
 }
 
 .btn-common {
-    background-color: #02366F;
+    background-image: linear-gradient(to right, #6168B0, #52CAF5);
     position: relative;
     z-index: 1;
     text-transform: uppercase;
@@ -330,6 +330,17 @@ a.back-to-top:focus {
     padding: 60px 0;
 }
 
+.section-padding-services {
+<<<<<<< HEAD
+    min-height: 1000px;
+    padding: 250px 0 0;
+=======
+    min-height: 850px;
+    padding: 250px 0 0;
+    margin-bottom: auto;
+>>>>>>> 01623a7417a76f2d5ea6eaf677d030221fb09b9f
+}
+
 hr {
     border-top: 1px dotted #ddd;
 }
@@ -452,16 +463,32 @@ hr {
 
 /* Services Item */
 
+#services {
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-position-x: center;
+    background-position-y: top;
+}
+
+#services .container {
+    margin-top: 100px;
+}
+
 .services-item {
     padding: 20px;
     border-radius: 4px;
     text-align: center;
     margin: 15px 0;
-    box-shadow: 0 0 12px #f4f4f4;
     transition: all 0.3s ease-in-out 0s;
     -moz-transition: all 0.3s ease-in-out 0s;
     -webkit-transition: all 0.3s ease-in-out 0s;
     -o-transition: all 0.3s ease-in-out 0s;
+}
+
+#services .row {
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 .services-item .icon {
@@ -487,36 +514,44 @@ hr {
 }
 
 .services-item .services-content h3 {
-    margin-top: 10px;
+    margin-top: 20px;
     font-weight: 500;
-    text-transform: uppercase;
-    margin-bottom: 10px;
+    font-size: 16px;
+
 }
 
 .services-item .services-content h3 a {
-    font-size: 16px;
-    color: #585b60;
+    color: white;
+    font-weight: 700;
 }
 
-.services-item .services-content h3 a:hover {
-    color: #02366F;
-}
-
-.services-item:hover {
-    box-shadow: 0 10px 22px 10px rgba(27, 38, 49, 0.1);
-}
-
-.services-item:hover .icon {
-    background: #02366F;
-}
-
-.services-item:hover .icon i {
-    color: #fff;
+.services-item .services-content p {
+    color: white;
 }
 
 #service {
     position: relative;
     background-color: #00aced;
+<<<<<<< HEAD
+=======
+}
+
+
+#news h2 {
+    color: #043770;
+    font-weight: bold;
+    text-align: center;
+}
+
+#news p {
+    color: #043770;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+#news .carousel-indicators {
+    background-color: #00aced;
+>>>>>>> etin
 }
 
 .about-area .about-wrapper {
@@ -567,7 +602,11 @@ hr {
 }
 
 .top-nav-collapse .navbar-brand img {
+<<<<<<< HEAD
     width: 120px;
+=======
+    width: 150px;
+>>>>>>> etin
 }
 
 .top-nav-collapse .navbar-nav .nav-link {
@@ -595,7 +634,11 @@ hr {
 }
 
 .navbar-brand img {
+<<<<<<< HEAD
     width: 120px;
+=======
+    width: 150px;
+>>>>>>> etin
 }
 
 .top-nav-collapse .navbar-nav li.active a.nav-link {
@@ -791,19 +834,25 @@ hr {
     border-image-width: auto;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 650px;
     position: relative;
     overflow: hidden;
-    padding: 180px 0 80px;
+    padding: 180px 0 0px;
 }
 
 #hero-area .contents .head-title {
     color: #043770;
+<<<<<<< HEAD
     font-size: 42px;
     font-weight: bold;
     line-height: 60px;
+=======
+    font-size: 48px;
+    
+    line-height: 64px;
+>>>>>>> etin
     margin-bottom: 10px;
 }
+
 
 #hero-area .contents .header-button {
     margin-top: 20px;
@@ -812,6 +861,12 @@ hr {
 
 #hero-area .contents .header-button .btn {
     margin-right: 10px;
+}
+
+#hero-area .contents p {
+    font-size: 20px;
+    line-height: auto;
+    letter-spacing: ;
 }
 
 .sloder-img {
@@ -902,7 +957,6 @@ hr {
 }
 
 .team-item .info-text h3 a:hover {
-    color: #02366F;
 }
 
 .team-item .info-text p {
