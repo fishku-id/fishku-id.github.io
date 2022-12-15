@@ -81,39 +81,7 @@
 </section>
 <!-- Services Section End -->
 <!-- News Section -->
-<section id="news">
-	<div class="container">
-		<div class="sec-heading text-center">
-			<h2>Fun Fact</h2>
-			<!-- <div class="shape wow fadeInDown" data-wow-delay="0.3s"></div> -->
-			<h5>Fishitors tau gak sihhh?</h5> </div>
-		<!-- carousel -->
-		<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
-			<div class="carousel-indicators">
-				<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-				<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-				<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-			</div>
-			<div class="carousel-inner">
-				<div class="carousel-item active"> <img src="assets/img/funfact/croppednatunas.jpg" class="d-block w-100 h-funfact" alt="...">
-					<div class="carousel-caption d-none d-md-block">
-						<h-funfact>Some representative placeholder content for the first slide.</h-funfact>
-					</div>
-				</div>
-				<div class="carousel-item"> <img src="assets/img/funfact/tunaocean.jpg" class="d-block w-100 h-funfact" alt="...">
-					<div class="carousel-caption d-none d-md-block">
-						<h-funfact>Some representative placeholder content for the second slide.</h-funfact>
-					</div>
-				</div>
-				<div class="carousel-item"> <img src="assets/img/funfact/sea.jpg" class="d-block w-100 h-funfact" alt="...">
-					<div class="carousel-caption d-none d-md-block">
-						<h-funfact>Some representative placeholder content for the third slide.</h-funfact>
-					</div>
-				</div>
-			</div>
-			<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="visually-hidden">Previous</span> </button>
-			<button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="visually-hidden">Next</span> </button>
-		</div>
+
 		<!-- carousel -->
 		<!-- <div class="row"> -->
 		<!-- Services item -->
@@ -145,19 +113,31 @@
 </section>
 <!-- News Section End -->
 
+<!-- funfact session -->
+<section>
+<div class="container">
+		<div class="row">
+			<div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+				<div class="sec-heading text-center">
+					<h2>Fun Fact</h2> 
+					<p>Fishitors tau gasih?</p>
+				</div>
+			</div>
+		</div>
+	</div>
 <div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <div class="mask flex-center">
         <div class="container">
-          <div class="row align-items-center">
+          <div class="row align-items-center" style="margin-top: 30px">
             <div class="col-md-7 col-12 order-md-1 order-2">
               <h4>Present your <br>
                 awesome product</h4>
               <p>Lorem ipsum dolor sit amet. Reprehenderit, qui blanditiis quidem rerum <br>
                 necessitatibus praesentium voluptatum deleniti atque corrupti.</p>
-              <!-- <a href="#">BUY NOW</a> </div> -->
-            <div class="col-md-5 col-12 order-md-2 order-1"><img src="assets/img/funfact/croppednatunas.jpg" class="mx-auto" alt="slide"></div>
+             </div>
+            <div class="col-md-5 col-12 order-md-2 order-1"><img src="assets/img/funfact/croppednatunas.jpg" class="mx-auto" alt="slide" style="height: 225px; width: 400px"></div>
           </div>
         </div>
       </div>
@@ -171,8 +151,8 @@
                 awesome product</h4>
               <p>Lorem ipsum dolor sit amet. Reprehenderit, qui blanditiis quidem rerum <br>
                 necessitatibus praesentium voluptatum deleniti atque corrupti.</p>
-              <!-- <a href="#">BUY NOW</a> </div> -->
-            <div class="col-md-5 col-12 order-md-2 order-1"><img src="assets/img/funfact/tunaocean.jpg" class="mx-auto" alt="slide"></div>
+               </div>
+            <div class="col-md-5 col-12 order-md-2 order-1"><img src="assets/img/funfact/tunaocean.jpg" class="mx-auto" alt="slide" style="height: 225px; width: 400px"></div>
           </div>
         </div>
       </div>
@@ -186,15 +166,17 @@
                 awesome product</h4>
               <p>Lorem ipsum dolor sit amet. Reprehenderit, qui blanditiis quidem rerum <br>
                 necessitatibus praesentium voluptatum deleniti atque corrupti.</p>
-              <!-- <a href="#">BUY NOW</a> </div> -->
-            <div class="col-md-5 col-12 order-md-2 order-1"><img src="assets/img/funfact/sea.jpg" class="mx-auto" alt="slide"></div>
+              </div>
+            <div class="col-md-5 col-12 order-md-2 order-1"><img src="assets/img/funfact/sea.jpg" class="mx-auto" alt="slide" style="height: 225px; width: 400px"></div>
           </div>
         </div>
       </div>
     </div>
   </div>
   <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> </div>
+</section>
 <!--slide end--> 
+<!-- funfact end -->
 
 <!-- Team slider Start -->
 <section id="team">
