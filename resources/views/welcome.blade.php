@@ -156,7 +156,7 @@
                 awesome product</h4>
               <p>Lorem ipsum dolor sit amet. Reprehenderit, qui blanditiis quidem rerum <br>
                 necessitatibus praesentium voluptatum deleniti atque corrupti.</p>
-              <a href="#">BUY NOW</a> </div>
+              <!-- <a href="#">BUY NOW</a> </div> -->
             <div class="col-md-5 col-12 order-md-2 order-1"><img src="assets/img/funfact/croppednatunas.jpg" class="mx-auto" alt="slide"></div>
           </div>
         </div>
@@ -171,7 +171,7 @@
                 awesome product</h4>
               <p>Lorem ipsum dolor sit amet. Reprehenderit, qui blanditiis quidem rerum <br>
                 necessitatibus praesentium voluptatum deleniti atque corrupti.</p>
-              <a href="#">BUY NOW</a> </div>
+              <!-- <a href="#">BUY NOW</a> </div> -->
             <div class="col-md-5 col-12 order-md-2 order-1"><img src="assets/img/funfact/tunaocean.jpg" class="mx-auto" alt="slide"></div>
           </div>
         </div>
@@ -186,7 +186,7 @@
                 awesome product</h4>
               <p>Lorem ipsum dolor sit amet. Reprehenderit, qui blanditiis quidem rerum <br>
                 necessitatibus praesentium voluptatum deleniti atque corrupti.</p>
-              <a href="#">BUY NOW</a> </div>
+              <!-- <a href="#">BUY NOW</a> </div> -->
             <div class="col-md-5 col-12 order-md-2 order-1"><img src="assets/img/funfact/sea.jpg" class="mx-auto" alt="slide"></div>
           </div>
         </div>
