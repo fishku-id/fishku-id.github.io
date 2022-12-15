@@ -236,7 +236,7 @@
 	</div>
 </section>
 <!-- download section -->
-<section>
+<section id="download">
 <div class="container">
 		<div class="row">
 			<div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
@@ -249,7 +249,7 @@
 				<div class="mask flex-center">
 					<div class="container">
 						<div class="row align-items-center" style="margin-top: 30px">
-						<div class="col-md-7 col-12 order-md-1 order-2"><img src="assets/img/funfact/croppednatunas.jpg" class="mx-auto" alt="slide" style="height: 225px; width: 400px"></div>
+						<div class="col-md-7 col-12 order-md-1 order-2"><img src="assets/img/mockup.png" class="mx-auto" alt="slide" style="height: 480px; width: 420px"></div>
 							<div class="col-md-5 col-12 order-md-2 order-1">
 								<h3>
 									FI$HKU TELAH HADIR DI <br>
