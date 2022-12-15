@@ -146,6 +146,21 @@ a:not([href]):not([tabindex]) {
     position: relative;
 }
 
+@media screen and (min-width: 62em) {
+.css-2gb014 {
+    max-width: 180px;
+}
+}
+
+@media screen and (min-width: 48em) {
+.css-2gb014 {
+    max-width: 165px;
+}
+.css-2gb014 {
+    max-width: 150px;
+}
+}
+
 .shape {
     height: 1px;
     margin: 0 auto 30px;
