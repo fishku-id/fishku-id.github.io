@@ -16,6 +16,9 @@
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/css/owl.theme.css">
 
+    <!-- funfact carousel -->
+    <link rel="stylesheet" href="assets/css/funfact.carousel.css">
+
     <!-- Animate -->
     <link rel="stylesheet" href="assets/css/animate.css">
     <!-- Main Style -->
@@ -178,6 +181,7 @@
     <script src="https://code.iconify.design/iconify-icon/1.0.1/iconify-icon.min.js"></script>
     <script src="assets/js/bootstrap.bundle.min.js"></script>
     <script src="jquery-3.6.1.min.js"></script>
+    <script src="assets/js/funfact.js"></script>
    
     <script>
         $('.team-slider').owlCarousel({
