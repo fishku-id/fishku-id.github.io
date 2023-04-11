@@ -340,6 +340,54 @@ hr {
     border-top: 1px dotted #ddd;
 }
 
+/* ==========================================================================
+  9. Download Section Style
+   ========================================================================== */
+
+#download-area {
+    border-image-width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    padding: 100px 0 0px;
+}
+
+#download-area .download-area-bg {
+    margin-bottom: 100px
+}
+
+#download-area .contents{
+    text-align: right;
+}
+
+#download-area .contents .head-title {
+    color: #043770;
+    font-size: 48px;
+    line-height: 64px;
+    margin-bottom: 10px;
+}
+
+
+#download-area .contents .header-button {
+    margin-top: 20px;
+    color: #222222;
+}
+
+#download-area .contents .header-button .btn {
+    margin-right: 10px;
+}
+
+#download-area .contents p {
+    font-size: 20px;
+    line-height: auto;
+    letter-spacing: ;
+}
+
+#download-area .img-fluid {
+    height: fit-content;
+    width: fit-content;
+}
 
 /* ==========================================================================
   8. Features Section Style
@@ -808,7 +856,6 @@ hr {
 ========================================================================== */
 
 #hero-area {
-    background-image: url(../img/mobile-fishku.svg);
     border-image-width: auto;
     background-repeat: no-repeat;
     background-size: cover;
