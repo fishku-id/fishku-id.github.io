@@ -327,12 +327,12 @@ a.back-to-top:focus {
 }
 
 .section-padding {
-    padding: 60px 0;
+    padding: 25px 0;
 }
 
 .section-padding-services {
-    min-height: 850px;
-    padding: 250px 0 0;
+    min-height: 750px;
+    padding: 158px 0 0;
     margin-bottom: auto;
 }
 
@@ -340,6 +340,54 @@ hr {
     border-top: 1px dotted #ddd;
 }
 
+/* ==========================================================================
+  9. Download Section Style
+   ========================================================================== */
+
+#download-area {
+    border-image-width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    padding: 100px 0 0px;
+}
+
+#download-area .download-area-bg {
+    margin-bottom: 100px
+}
+
+#download-area .contents{
+    text-align: right;
+}
+
+#download-area .contents .head-title {
+    color: #043770;
+    font-size: 48px;
+    line-height: 64px;
+    margin-bottom: 10px;
+}
+
+
+#download-area .contents .header-button {
+    margin-top: 20px;
+    color: #222222;
+}
+
+#download-area .contents .header-button .btn {
+    margin-right: 10px;
+}
+
+#download-area .contents p {
+    font-size: 20px;
+    line-height: auto;
+    letter-spacing: ;
+}
+
+#download-area .img-fluid {
+    height: fit-content;
+    width: fit-content;
+}
 
 /* ==========================================================================
   8. Features Section Style
@@ -460,6 +508,7 @@ hr {
 
 #services {
     background-image: url(../img/background.jpg);
+    background-size: 1300px 750px;
     background-repeat: no-repeat;
     background-position: top center;
 }
@@ -526,6 +575,7 @@ hr {
     color: #043770;
     font-weight: bold;
     text-align: center;
+    margin-top: -90px;
 }
 
 #news p {
@@ -806,7 +856,6 @@ hr {
 ========================================================================== */
 
 #hero-area {
-    background-image: url(../img/mobile-fishku.svg);
     border-image-width: auto;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1594,6 +1643,141 @@ textarea {
 .social-icon .google:hover {
     background: #ce332a;
 }
+
+
+/* ==========================================================================
+  Testimonial Section Style
+   ========================================================================== */
+.sec-heading-text-left {
+    font-family: 'Poppins';
+    margin-left: 15px;
+}
+
+#testimonial {
+    padding: 30px 0;
+}
+
+
+.testimonial-slider .owl-dots {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -20px;
+    text-align: center;
+    width: 100%;
+}
+
+.testimonial-slider button.owl-dot {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    margin: 0 6px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #262626;
+}
+
+.testimonial-slider .owl-dot.active {
+    background-color: coral;
+}
+	
+
+
+/* Testimonial Item */
+
+.testimonial-item:hover {
+    box-shadow: 0 10px 22px 10px rgba(27, 38, 49, 0.1);
+}
+
+.testimonial-item {
+    margin: 15px 0;
+    border-radius: 0px;
+    box-shadow: 0px 2px 18px 0px rgba(198, 198, 198, 0.3);
+    /* transition: all 0.3s ease-in-out 0s;
+    -moz-transition: all 0.3s ease-in-out 0s;
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    -o-transition: all 0.3s ease-in-out 0s; */
+    background: #fff;
+}
+
+.testimonial-item .testimonial-img {
+    float: left;
+    width: 200px;
+    margin-right: 30px;
+}
+
+.testimonial-item .content {
+    padding: 15px 50px;
+    height: 200px;
+}
+
+.testimonial-item .social-icons {
+    padding-top: 11px;
+    transition: all 0.3s ease-in-out 0s;
+    -moz-transition: all 0.3s ease-in-out 0s;
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    -o-transition: all 0.3s ease-in-out 0s;
+}
+
+.testimonial-item .social-icons li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.testimonial-item .social-icons li a {
+    letter-spacing: 0px;
+    outline: 0 !important;
+}
+
+.testimonial-item .social-icons li a i {
+    font-size: 18px;
+    display: block;
+    transition: all 0.3s ease-in-out 0s;
+    -moz-transition: all 0.3s ease-in-out 0s;
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    -o-transition: all 0.3s ease-in-out 0s;
+}
+
+.testimonial-item .social-icons li .lni-facebook-filled {
+    color: #3b5998;
+}
+
+.testimonial-item .social-icons li .lni-twitter-filled {
+    color: #00aced;
+}
+
+.testimonial-item .social-icons li .lni-instagram-filled {
+    color: #fb3958;
+}
+
+.testimonial-item .info-text {
+    margin-bottom: 10px;
+}
+
+.testimonial-item .info-text h3 {
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.testimonial-item .info-text h3 a {
+    color: #333;
+}
+
+.testimonial-item .info-text h3 a:hover {}
+
+.testimonial-item .info-text p {
+    margin: 0;
+    color: #888;
+}
+
+.testimonial-item:hover .team-overlay {
+    opacity: 1;
+}
+
+
+
 
 
 /* ------------------------ */
