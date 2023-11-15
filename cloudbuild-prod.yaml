@@ -7,8 +7,8 @@ steps:
 
   # Connect to GCS Bucket
 - name: 'gcr.io/cloud-builders/gsutil'
-  args: ['cp', 'index.html', 'gs://fishku-landingpage/index.html']
+  args: ['cp', 'index.html', 'gs://landing-page-fishku-prod/index.html']
 
   # Connect to GCS Bucket
 - name: 'gcr.io/cloud-builders/gsutil'
-  args: ['cp', 'privacy.html', 'gs://fishku-landingpage/privacy.html']
+  args: ['cp', 'privacy.html', 'gs://landing-page-fishku-prod/privacy.html']
